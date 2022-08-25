@@ -79,7 +79,11 @@
           
             "https://www.youtube.com/embed/dSl_qnWO104",
           
-            "public-apis/public-apis"
+            "public-apis/public-apis",
+          
+            "C#",
+          
+            "C++"
           
         ],
         "created_by": "kytrinyx",
@@ -265,7 +269,7 @@
           
             "orangetw/My-CTF-Web-Challenges",
           
-            "Ganapati/RsaCtfTool",
+            "RsaCtfTool/RsaCtfTool",
           
             "Ignitetechnologies/Privilege-Escalation",
           
@@ -763,7 +767,11 @@
           
             "gosu/gosu",
           
-            "cerberusxdev/cerberus"
+            "cerberusxdev/cerberus",
+          
+            "ganelson/inform",
+          
+            "hexops/mach"
           
         ],
         "created_by": "leereilly",
@@ -1097,7 +1105,9 @@
           
             "replit/kaboom",
           
-            "straker/kontra"
+            "straker/kontra",
+          
+            "playcanvas/engine"
           
         ],
         "created_by": "leereilly",
@@ -1161,7 +1171,7 @@
           
             "appacademy/welcome-to-open",
           
-            "webgems/webgems",
+            "lostdesign/webgems",
           
             "kamranahmedse/developer-roadmap",
           
@@ -1781,7 +1791,9 @@
           
             "hci-lab/PyQuran",
           
-            "DrWaleedAYousef/Teaching"
+            "DrWaleedAYousef/Teaching",
+          
+            "MoatazBadawy/Sunset-hadith"
           
         ],
         "created_by": "AN4553R",
@@ -1879,7 +1891,7 @@
           
             "shivammathur/setup-php",
           
-            "infracloudio/botkube",
+            "kubeshop/botkube",
           
             "SigNoz/signoz",
           
@@ -1989,7 +2001,25 @@
           
             "PyFarsi/pyabr",
           
-            "jamedadi/yummy"
+            "jamedadi/yummy",
+          
+            "sobhe/hazm",
+          
+            "rastikerdar/vazirmatn",
+          
+            "mohebifar/made-in-iran",
+          
+            "Hameds/APIs-made-in-Iran",
+          
+            "Kiarash-Z/react-modern-calendar-datepicker",
+          
+            "MahdiMajidzadeh/bootstrap-v4-rtl",
+          
+            "imaNNeoFighT/fl_chart",
+          
+            "persian-tools/persian-tools",
+          
+            "usablica/intro.js"
           
         ],
         "created_by": "Javad",
@@ -2167,7 +2197,7 @@
           
             "jcplaboratory/rashell",
           
-            "Abdur-rahmaanJ/greenBerry",
+            "Abdur-rahmaanJ/greenberry",
           
             "Abdur-rahmaanJ/honeybot",
           
@@ -2333,7 +2363,9 @@
           
             "pankod/superplate",
           
-            "Huseyinnurbaki/mocktail"
+            "Huseyinnurbaki/mocktail",
+          
+            "geziyor/geziyor"
           
         ],
         "created_by": "kiliczsh",
@@ -2519,11 +2551,11 @@
           
             "bangoc123/learn-machine-learning-in-two-months",
           
-            "1milligram/csslayout",
+            "phuocng/csslayout",
           
             "nguyenquangminh0711/ruby_jard",
           
-            "1milligram/1loc",
+            "phuocng/1loc",
           
             "BambooEngine/ibus-bamboo"
           
@@ -2963,7 +2995,7 @@
           
             "github/site-policy",
           
-            "hackdaymanifesto/hackdaymanifesto.github.com",
+            "hackdaymanifesto/site",
           
             "BetaNYC/Bike-Share-Data-Best-Practices",
           
@@ -3287,7 +3319,11 @@
           
             "Gwion/Gwion",
           
-            "vlang/v"
+            "vlang/v",
+          
+            "carbon-language/carbon-lang",
+          
+            "imba/imba"
           
         ],
         "created_by": "leereilly",
@@ -4041,7 +4077,7 @@
           
             "icecrime/poule",
           
-            "probot/settings",
+            "repository-settings/app",
           
             "cla-assistant/cla-assistant",
           
@@ -4934,6 +4970,27 @@
       },
     
       {
+        "topic_name": "app",
+        "created_by": null,
+        "display_name": "App",
+        "github_url": null,
+        "logo": 
+          null,
+        
+        "released": null,
+        "short_description": "The term \"app\" usually refers to applications for mobile devices such as phones.",
+        "url": "/topics/app/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Application_software",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>An application program (software application, or application, or app for short) is a computer program designed to carry out a specific task other than one relating to the operation of the computer itself, typically to be used by end-users. Word processors, media players, and accounting software are examples. The collective noun “application software” refers to all applications collectively. The other principal classifications of software are system software, relating to the operation of the computer, and utility software (“utilities”). Applications may be bundled with the computer and its system software or published separately and may be coded as proprietary, open source, or projects.</p>\n\n<p>The term “app” usually refers to applications for mobile devices such as phones.</p>\n"
+      },
+    
+      {
         "topic_name": "apple-music",
         "created_by": "Apple",
         "display_name": "Apple Music",
@@ -5429,6 +5486,27 @@
       },
     
       {
+        "topic_name": "azd-templates",
+        "created_by": "Microsoft",
+        "display_name": "Azure Developer CLI templates",
+        "github_url": "https://github.com/Azure/azure-dev",
+        "logo": 
+          "https://github.com/topics/azd-templates/azd-templates.png",
+        
+        "released": "July 12, 2022",
+        "short_description": "The Azure Developer CLI templates are idiomatic application templates that accelerate the time it takes to get started on Azure.",
+        "url": "/topics/azd-templates/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Azure Developer CLI (azd) templates are idiomatic application templates created using the <code class=\"language-plaintext highlighter-rouge\">azd</code> conventions so that you can use <code class=\"language-plaintext highlighter-rouge\">azd</code> to get started on Azure. Each template includes application code, infrastructure as code files needed to provision the Azure resources, and configuration file to set up your continuous integration and delivery (CI/CD) pipeline.</p>\n"
+      },
+    
+      {
         "topic_name": "azure",
         "created_by": "Microsoft",
         "display_name": "Azure",
@@ -5688,6 +5766,29 @@
       },
     
       {
+        "topic_name": "binance",
+        "created_by": null,
+        "display_name": "Binance",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/binance/binance.png",
+        
+        "released": null,
+        "short_description": "The largest cryptocurrency exchange in the world in terms of daily trading volume of cryptocurrencies.",
+        "url": "/topics/binance/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Binance",
+        "related": [
+          
+            "binance-api"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Binance is a cryptocurrency exchange which is the largest exchange in the world in terms of daily trading volume of cryptocurrencies. It was founded in 2017 and is registered in the Cayman Islands. Binance was founded by Changpeng Zhao (aka CZ), a developer who had previously created high frequency trading software. Binance was initially based in China, but later moved its headquarters out of China following the Chinese government’s increasing regulation of cryptocurrency.</p>\n"
+      },
+    
+      {
         "topic_name": "bioinformatics",
         "created_by": null,
         "display_name": "Bioinformatics",
@@ -5852,6 +5953,27 @@
           
         ],
         "content": "<p>A blockchain is a digitized, decentralized ledger of transactions. Blockchains record a continuously growing list of records, called blocks, which are linked and secured using cryptography.</p>\n"
+      },
+    
+      {
+        "topic_name": "blogger",
+        "created_by": null,
+        "display_name": "Blogger",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/blogger/blogger.png",
+        
+        "released": null,
+        "short_description": "is an online content management system which enables multi-user blogs with time-stamped entries.",
+        "url": "/topics/blogger/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Blogger_(service)",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Blogger Service is a content management system which enables multi-user blogs with time-stamped entries. Pyra Labs developed it before being acquired by Google in 2003. Google hosts the blogs, which can be accessed through a subdomain of <code class=\"language-plaintext highlighter-rouge\">blogspot.com</code>. Blogs can also be accessed from a user-owned custom domain (such as <code class=\"language-plaintext highlighter-rouge\">www.example.com</code>) by using DNS facilities to direct a domain to Google’s servers. A user can have up to 100 blogs or websites per account.</p>\n"
       },
     
       {
@@ -6116,6 +6238,27 @@
       },
     
       {
+        "topic_name": "cadquery",
+        "created_by": null,
+        "display_name": "CadQuery",
+        "github_url": "https://github.com/CadQuery",
+        "logo": 
+          "https://github.com/topics/cadquery/cadquery.png",
+        
+        "released": null,
+        "short_description": "CadQuery is an intuitive, easy-to-use Python library for building parametric 3D CAD models.",
+        "url": "/topics/cadquery/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>CadQuery is an intuitive, easy-to-use Python library for building parametric 3D CAD models. It has several goals:</p>\n\n<ul>\n  <li>Build models with scripts that are as close as possible to how you’d describe the object to a human, using a standard, already established programming language.</li>\n  <li>Create parametric models that can be very easily customized.</li>\n  <li>Output high quality CAD formats like STEP and AMF in addition to traditional STL.</li>\n  <li>Provide a non-proprietary, plain text model format that can be edited and executed with only a web browser.</li>\n</ul>\n\n<p>CadQuery 2 is based on <a href=\"https://github.com/CadQuery/OCP\">OCP</a>, which is a set of Python bindings for the open source <a href=\"http://www.opencascade.com/\">OpenCascade</a> modelling kernel.</p>\n"
+      },
+    
+      {
         "topic_name": "calculate-pi",
         "created_by": "github",
         "display_name": "Calculate Pi",
@@ -6375,7 +6518,7 @@
             "chrome-extensions, google-chrome-extension, extension-chrome"
           
         ],
-        "content": "<p>Chrome extensions are add-ons for Chromium-based browsers, such as Google Chrome, which enable users to customize the Chrome browsing experience. Built using web technologies like HTML, CSS, and JavaScript, extensions make use of various APIs supported by the browser. Extensions are typically downloaded from online marketplaces, with the Chrome Web Store being the most widely used. Chrome extensions work on most Chromium browsers, not just Google Chome developed by Google.</p>\n"
+        "content": "<p>Chrome extensions are add-ons for Chromium-based browsers, such as Google Chrome, which enable users to customize the Chrome browsing experience. Built using web technologies like HTML, CSS, and JavaScript, extensions make use of various APIs supported by the browser. Extensions are typically downloaded from online marketplaces, with the Chrome Web Store being the most widely used. Chrome extensions work on most Chromium browsers, not just Google Chrome developed by Google.</p>\n"
       },
     
       {
@@ -6857,7 +7000,7 @@
         "aliases": [
           
         ],
-        "content": "<p>Common Lisp is a general-purpose programming language in the Lisp language family. Its syntax is defined on top of s-expressions, however it can be extended through the use of reader macros. It supports compile-time meta-programming through the use of macros. It supports the OOP paradigm through the Common Lisp Object System. The API upon which CLOS is implemented is exposed to the programmer so they can extent the object system. This API is refered as the Meta-Object Protocol. There are multiple implementations available: SBCL, which generates fast code, CCL, which compiles code fast, ABCL, which runs on the JVM, JSCL which runs on Node, and the browser, etc.</p>\n"
+        "content": "<p>Common Lisp is a general-purpose programming language in the Lisp language family. Its syntax is defined on top of s-expressions, however it can be extended through the use of reader macros. It supports compile-time meta-programming through the use of macros. It supports the OOP paradigm through the Common Lisp Object System. The API upon which CLOS is implemented is exposed to the programmer so they can extent the object system. This API is referred as the Meta-Object Protocol. There are multiple implementations available: SBCL, which generates fast code, CCL, which compiles code fast, ABCL, which runs on the JVM, JSCL which runs on Node, and the browser, etc.</p>\n"
       },
     
       {
@@ -7912,7 +8055,7 @@
             "discordbots"
           
         ],
-        "content": "<p>A bot is an automated Discord account. It utilizes the Discord API. They have a “BOT” tag next to their username. They can be added through the API. Bots typically follow a command structure, where a user sends a prefixed message or a slash command, and the bot reponds, though bots can work in many different ways.</p>\n"
+        "content": "<p>A bot is an automated Discord account. It utilizes the Discord API. They have a “BOT” tag next to their username. They can be added through the API. Bots typically follow a command structure, where a user sends a prefixed message or a slash command, and the bot responds, though bots can work in many different ways.</p>\n"
       },
     
       {
@@ -8359,7 +8502,7 @@
         "aliases": [
           
         ],
-        "content": "<p>Elasticsearch is a distributed, open source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured. Elasticsearch is built on Apache Lucene and was first released in 2010 by Elasticsearch N.V. (now known as Elastic).</p>\n\n"
+        "content": "<p>Elasticsearch is a distributed, open source search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured. Elasticsearch is built on Apache Lucene and was first released in 2010 by Elasticsearch N.V. (now known as Elastic).</p>\n"
       },
     
       {
@@ -8409,7 +8552,7 @@
             "11ty"
           
         ],
-        "content": "<p>Eleventy is a JavaScript-based alternative to Jekyll, built by <a href=\"https://twitter.com/zachleat\">@zachleat</a>. It can transform template files of various formats into HTML. Eleventy’s mascot is an opossum suspended by a red baloon.</p>\n"
+        "content": "<p>Eleventy is a JavaScript-based alternative to Jekyll, built by <a href=\"https://twitter.com/zachleat\">@zachleat</a>. It can transform template files of various formats into HTML. Eleventy’s mascot is an opossum suspended by a red balloon.</p>\n"
       },
     
       {
@@ -8760,7 +8903,7 @@
             "esolangs, esoteric-language, esoteric"
           
         ],
-        "content": "<p>An esoteric programming language, or “esolang”, is a computer programming language\nintended to entertain or confuse, to be a joke or to exlore new concepts.\nEsolangs may be minimalistic or, conversely, bloated.\nOften an esolang has features that made it harder to use on purpose.\nEsolangs are mostly not designed for serious use, unlike mainstream languages.</p>\n"
+        "content": "<p>An esoteric programming language, or “esolang”, is a computer programming language\nintended to entertain or confuse, to be a joke or to explore new concepts.\nEsolangs may be minimalistic or, conversely, bloated.\nOften an esolang has features that made it harder to use on purpose.\nEsolangs are mostly not designed for serious use, unlike mainstream languages.</p>\n"
       },
     
       {
@@ -9443,7 +9586,7 @@
             "f95, f77, fortran90, fortran77, fortran95, fortran2003, fortran2008, fortran2018"
           
         ],
-        "content": "<p>Fortran is a statically typed compiled programming language that is especially suited to numeric computation, and scientific computing.\nWhile Fortran has been in use since its inception by John Backus at IBM in 1957, it still remains popular today, especially for computationally intensive\napplications including numerical weather prediction, finite element analysis, computational fuild dynamics, computational physics, crystallography, and\ncomputational chemistry. Despite its age, new language revisions include syntax and semantics for modern language ideas including pointers, recursion,\nobject orientated programming features, and parallel programming using Coarray Fortran.</p>\n"
+        "content": "<p>Fortran is a statically typed compiled programming language that is especially suited to numeric computation, and scientific computing.\nWhile Fortran has been in use since its inception by John Backus at IBM in 1957, it still remains popular today, especially for computationally intensive\napplications including numerical weather prediction, finite element analysis, computational fluid dynamics, computational physics, crystallography, and\ncomputational chemistry. Despite its age, new language revisions include syntax and semantics for modern language ideas including pointers, recursion,\nobject orientated programming features, and parallel programming using Coarray Fortran.</p>\n"
       },
     
       {
@@ -9858,6 +10001,27 @@
       },
     
       {
+        "topic_name": "geometry-dash",
+        "created_by": null,
+        "display_name": "Geometry Dash",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/geometry-dash/geometry-dash.png",
+        
+        "released": null,
+        "short_description": "Open source Projects relating to the Video Game 'Geometry Dash'.",
+        "url": "/topics/geometry-dash/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Geometry_Dash",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Open source Projects relating to the Video Game ‘Geometry Dash’. Most projects communicate with the Game Servers.</p>\n"
+      },
+    
+      {
         "topic_name": "getting-things-done",
         "created_by": null,
         "display_name": "Getting Things Done",
@@ -9968,6 +10132,27 @@
           
         ],
         "content": "<p>A geographic information system (GIS) is a conceptualized framework that provides the ability to capture and \nanalyze spatial and geographic data. GIS applications (or GIS apps) are computer-based tools that allow the \nuser to create interactive queries (user-created searches), store and edit spatial and non-spatial data, \nanalyze spatial information output, and visually share the results of these operations by presenting them as \nmaps.</p>\n"
+      },
+    
+      {
+        "topic_name": "giscus",
+        "created_by": null,
+        "display_name": "Giscus",
+        "github_url": "https://github.com/giscus/giscus",
+        "logo": 
+          "https://github.com/topics/giscus/giscus.png",
+        
+        "released": null,
+        "short_description": "A comment system powered by GitHub Discussions.",
+        "url": "/topics/giscus/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Giscus is a website comments system powered by Github Discussions.</p>\n"
       },
     
       {
@@ -10133,7 +10318,7 @@
         "topic_name": "gmail",
         "created_by": "Paul Buchheit",
         "display_name": "Gmail",
-        "github_url": "https://github.com/google",
+        "github_url": "https://github.com/googleworkspace",
         "logo": 
           "https://github.com/topics/gmail/gmail.png",
         
@@ -10143,15 +10328,15 @@
         "wikipedia_url": "https://en.wikipedia.org/wiki/Gmail",
         "related": [
           
-            "gmail-api, google, email, smtp"
+            "google-workspace, google-chat, google-meet"
           
         ],
         "aliases": [
           
-            "gmail-inbox, gmail-login, gmail-smtp"
+            "google-mail, gmail-inbox, gmail-smtp, gmail-bot, gmail-api, gmail-login"
           
         ],
-        "content": "<p>Gmail is an email service provided by Google. With Gmail, you can send and receive emails, block spam, create an address book, and perform other basic email tasks. It also has a built-in-chat feature, with which you can send someone an instant message or use the voice and video chat feature if your computer has a microphone and/or webcam.</p>\n"
+        "content": "<p>Gmail is an email service provided by Google. With Gmail, you can send and receive emails, block spam, create an address book, and perform other basic email tasks. It also has a built-in-chat feature, with which you can send someone an instant message or use the voice and video chat feature if your computer has a microphone and/or webcam.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/gmail\">https://developers.google.com/gmail</a></li>\n  <li>Access the application at <a href=\"https://mail.google.com\">https://mail.google.com</a></li>\n</ul>\n"
       },
     
       {
@@ -10276,6 +10461,31 @@
       },
     
       {
+        "topic_name": "google-admin",
+        "created_by": "Google",
+        "display_name": "Google Admin",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-admin/google-admin.png",
+        
+        "released": null,
+        "short_description": "Allow administrator accounts to configure and manage all aspects of Google Workspace for an organization.",
+        "url": "/topics/google-admin/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Workspace",
+        "related": [
+          
+            "google-workspace, google-cloud-identity, google-groups"
+          
+        ],
+        "aliases": [
+          
+            "google-admin-sdk, google-admin-api"
+          
+        ],
+        "content": "<p>Allow administrator accounts to configure and manage all aspects of <a href=\"https://workspace.google.com\">Google Workspace</a> for an organization</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/admin-sdk\">https://developers.google.com/admin-sdk</a></li>\n  <li>Access the application at <a href=\"https://admin.google.com\">https://admin.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
         "topic_name": "google-apps-script",
         "created_by": "Google",
         "display_name": "Google Apps Script",
@@ -10289,13 +10499,115 @@
         "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Apps_Script",
         "related": [
           
-            "google, google-cloud"
+            "google-workspace, gmail, google-docs, google-drive, google-sheets, google-forms, google-slides"
           
         ],
         "aliases": [
           
+            "apps-script, google-script, google-apps-script-api"
+          
         ],
-        "content": "<p>Google Apps Script is a cloud-based JavaScript platform provided by Google that lets you integrate with and automate tasks across Google products. \nYou write code in modern JavaScript and have access to built-in libraries for favorite Google Workspace applications like Gmail, Calendar, Drive, and more.</p>\n"
+        "content": "<p>A cloud-based JavaScript platform that lets you integrate with and automate tasks across Google products. You write code in modern JavaScript and have access to built-in libraries for favorite Google Workspace applications like Gmail, Calendar, Drive, and more.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/apps-script\">https://developers.google.com/apps-script</a></li>\n  <li>Access the application at <a href=\"https://script.google.com\">https://script.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-calendar",
+        "created_by": "Google",
+        "display_name": "Google Calendar",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-calendar/google-calendar.png",
+        
+        "released": null,
+        "short_description": "Millions of people use Google Calendar to track their events.",
+        "url": "/topics/google-calendar/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Calendar",
+        "related": [
+          
+            "google-workspace, gmail, google-docs, google-drive, google-sheets, google-forms, google-slides"
+          
+        ],
+        "aliases": [
+          
+            "gcalendar, google-calendar-api"
+          
+        ],
+        "content": "<p>Millions of people use Google Calendar to track their events. The Calendar API lets you integrate your app with Google Calendar, creating new ways for you to engage your users.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/calendar\">https://developers.google.com/calendar</a></li>\n  <li>Access the application at <a href=\"https://calendar.google.com\">https://calendar.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-chat",
+        "created_by": "Google",
+        "display_name": "Google Chat",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-chat/google-chat.png",
+        
+        "released": null,
+        "short_description": "Build Chat apps that bring your services and resources right into Google Chat.",
+        "url": "/topics/google-chat/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Chat",
+        "related": [
+          
+            "google-workspace, gmail, google-meet"
+          
+        ],
+        "aliases": [
+          
+            "hangouts-chat, google-chat-api"
+          
+        ],
+        "content": "<p>Build Chat apps that bring your services and resources right into Google Chat, letting users get information and take action without leaving the conversation.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/chat\">https://developers.google.com/chat</a></li>\n  <li>Access the application at <a href=\"https://chat.google.com\">https://chat.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-classroom",
+        "created_by": "Google",
+        "display_name": "Google Classroom",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-classroom/google-classroom.png",
+        
+        "released": null,
+        "short_description": "Google Classroom is mission control for your classes.",
+        "url": "/topics/google-classroom/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Classroom",
+        "related": [
+          
+            "google-workspace"
+          
+        ],
+        "aliases": [
+          
+            "google-classroom-api"
+          
+        ],
+        "content": "<p>Google Classroom is mission control for your classes. As a free service for teachers and students, you can create classes, distribute assignments, send feedback, and see everything in one place.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/classroom\">https://developers.google.com/classroom</a></li>\n  <li>Access the application at <a href=\"https://classroom.google.com\">https://classroom.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-cloud-identity",
+        "created_by": "Google",
+        "display_name": "Google Cloud Identity",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-cloud-identity/google-cloud-identity.png",
+        
+        "released": null,
+        "short_description": "Cloud Identity API is an API for provisioning and managing identity resources.",
+        "url": "/topics/google-cloud-identity/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Workspace",
+        "related": [
+          
+            "google-workspace, google-admin, google-groups"
+          
+        ],
+        "aliases": [
+          
+            "google-cloud-identity-api"
+          
+        ],
+        "content": "<p>Cloud Identity API is an API for provisioning and managing identity resources.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://cloud.google.com/identity/docs\">https://cloud.google.com/identity/docs</a></li>\n  <li>Access the application at <a href=\"https://cloud.google.com/identity\">https://cloud.google.com/identity</a></li>\n</ul>\n"
       },
     
       {
@@ -10324,6 +10636,131 @@
       },
     
       {
+        "topic_name": "google-docs",
+        "created_by": "Google",
+        "display_name": "Google Docs",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-docs/google-docs.png",
+        
+        "released": null,
+        "short_description": "Create and collaborate on online documents in real-time and from any device.",
+        "url": "/topics/google-docs/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Docs",
+        "related": [
+          
+            "google-workspace, google-drive, google-sheets, google-forms, google-slides"
+          
+        ],
+        "aliases": [
+          
+            "gdocs, google-docs-api"
+          
+        ],
+        "content": "<p>Create and collaborate on online documents in real-time and from any device. Use the API to access and update Google Docs programmatically, just like any other user.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/docs\">https://developers.google.com/docs</a></li>\n  <li>Access the application at <a href=\"https://docs.google.com\">https://docs.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-drive",
+        "created_by": "Google",
+        "display_name": "Google Drive",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-drive/google-drive.png",
+        
+        "released": null,
+        "short_description": "Store, access, and share your files in one secure place.",
+        "url": "/topics/google-drive/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Drive",
+        "related": [
+          
+            "google-workspace, google-docs, google-sheets, google-forms, google-slides"
+          
+        ],
+        "aliases": [
+          
+            "gdrive, google-drive-api"
+          
+        ],
+        "content": "<p>Store any and every file. Access files anytime, anywhere from your desktop and mobile devices. Control how files are shared.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/drive\">https://developers.google.com/drive</a></li>\n  <li>Access the application at <a href=\"https://drive.google.com\">https://drive.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-forms",
+        "created_by": "Google",
+        "display_name": "Google Forms",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-forms/google-forms.png",
+        
+        "released": null,
+        "short_description": "Easy to create surveys and forms for everyone.",
+        "url": "/topics/google-forms/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Forms",
+        "related": [
+          
+            "google-workspace, google-docs, google-drive, google-sheets, google-slides"
+          
+        ],
+        "aliases": [
+          
+            "google-forms-api"
+          
+        ],
+        "content": "<p>Easily create and share online forms and surveys, and analyze responses in real-time. The Google Forms API lets you programmatically collect information, or quiz people and assign a grade based on their responses.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/forms\">https://developers.google.com/forms</a></li>\n  <li>Access the application at <a href=\"https://forms.google.com\">https://forms.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-groups",
+        "created_by": "Google",
+        "display_name": "Google Groups",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-groups/google-groups.png",
+        
+        "released": null,
+        "short_description": "Google Groups is a service from Google that provides discussion groups for people sharing common interests.",
+        "url": "/topics/google-groups/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Groups",
+        "related": [
+          
+            "google-workspace, google-admin, gmail, google-cloud-identity"
+          
+        ],
+        "aliases": [
+          
+            "google-groups-api"
+          
+        ],
+        "content": "<p>Google Groups is a service from Google that provides discussion groups for people sharing common interests. The Google Groups API lets you manage groups and their members.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://cloud.google.com/identity/docs/groups\">https://cloud.google.com/identity/docs/groups</a></li>\n  <li>Access the application at <a href=\"https://groups.google.com\">https://groups.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-keep",
+        "created_by": "Google",
+        "display_name": "Google Keep",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-keep/google-keep.png",
+        
+        "released": null,
+        "short_description": "Capture what’s important and get more done.",
+        "url": "/topics/google-keep/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Keep",
+        "related": [
+          
+            "google-workspace"
+          
+        ],
+        "aliases": [
+          
+            "google-keep-api"
+          
+        ],
+        "content": "<p>Capture notes, share them with others, and access them from your computer, phone or tablet. The Google Keep API is used in an enterprise environment to manage Google Keep content and to resolve issues identified by cloud security software.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/keep\">https://developers.google.com/keep</a></li>\n  <li>Access the application at <a href=\"https://keep.google.com\">https://keep.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
         "topic_name": "google-maps",
         "created_by": "Google",
         "display_name": "Google Maps",
@@ -10344,6 +10781,156 @@
           
         ],
         "content": "<p>Google Maps is a web mapping platform and consumer application offered by Google. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, air and public transportation.</p>\n"
+      },
+    
+      {
+        "topic_name": "google-meet",
+        "created_by": "Google",
+        "display_name": "Google Meet",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-meet/google-meet.png",
+        
+        "released": null,
+        "short_description": "Premium video meetings for everyone.",
+        "url": "/topics/google-meet/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Meet",
+        "related": [
+          
+            "google-workspace, google-chat, google-calendar"
+          
+        ],
+        "aliases": [
+          
+            "google-meet-api"
+          
+        ],
+        "content": "<p>Enterprise-grade video conferencing is available to everyone with Google Meet.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/meet\">https://developers.google.com/meet</a></li>\n  <li>Access the application at <a href=\"https://meet.google.com\">https://meet.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-sheets",
+        "created_by": "Google",
+        "display_name": "Google Sheets",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-sheets/google-sheets.png",
+        
+        "released": null,
+        "short_description": "Create and edit online spreadsheets.",
+        "url": "/topics/google-sheets/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Sheets",
+        "related": [
+          
+            "google-workspace, google-docs, google-drive, google-forms, google-slides"
+          
+        ],
+        "aliases": [
+          
+            "gsheets, google-sheets-api"
+          
+        ],
+        "content": "<p>Use Google Sheets to create and edit online spreadsheets. Get insights together with secure sharing in real-time and from any device. The Google Sheets API lets you read, write, and format Google Sheets data with your preferred programming language, including Java, JavaScript, and Python.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/sheets\">https://developers.google.com/sheets</a></li>\n  <li>Access the application at <a href=\"https://sheets.google.com\">https://sheets.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-slides",
+        "created_by": "Google",
+        "display_name": "Google Slides",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-slides/google-slides.png",
+        
+        "released": null,
+        "short_description": "Beautiful presentations created together.",
+        "url": "/topics/google-slides/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Slides",
+        "related": [
+          
+            "google-workspace, google-docs, google-drive, google-sheets, google-forms"
+          
+        ],
+        "aliases": [
+          
+            "google-slides-api"
+          
+        ],
+        "content": "<p>Use Google Slides to create online slideshows. Make beautiful presentations together with secure sharing in real-time and from any device. The Google Slides API lets you access and update presentations programmatically, integrating data from various sources and producing finished presentations in a fraction of the time.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/slides\">https://developers.google.com/slides</a></li>\n  <li>Access the application at <a href=\"https://slides.google.com\">https://slides.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-tasks",
+        "created_by": "Google",
+        "display_name": "Google Tasks",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-tasks/google-tasks.png",
+        
+        "released": null,
+        "short_description": "Keep track of your daily tasks, organize multiple lists, and track important deadlines.",
+        "url": "/topics/google-tasks/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Tasks",
+        "related": [
+          
+            "google-workspace, gmail, google-chat, google-docs, google-drive, google-sheets, google-forms, google-slides"
+          
+        ],
+        "aliases": [
+          
+            "google-tasks-api"
+          
+        ],
+        "content": "<p>Keep track of your daily tasks, organize multiple lists, and track important deadlines with Google Tasks. Tasks synchronizes across all your devices, so your lists and tasks go with you, wherever you are. The Google Tasks API lets you search, read, and update Google Tasks content and metadata.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/tasks\">https://developers.google.com/tasks</a></li>\n  <li>Access the application at <a href=\"https://mail.google.com\">https://mail.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-vault",
+        "created_by": "Google",
+        "display_name": "Google Vault",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-vault/google-vault.png",
+        
+        "released": null,
+        "short_description": "Data retention and eDiscovery for Google Workspace.",
+        "url": "/topics/google-vault/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Vault",
+        "related": [
+          
+            "google-workspace, google-admin"
+          
+        ],
+        "aliases": [
+          
+            "google-vault-api"
+          
+        ],
+        "content": "<p>Keep track of what matters. Retain, search, and export your organization’s data from select apps with Vault for Google Workspace Business and Enterprise editions.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/vault\">https://developers.google.com/vault</a></li>\n  <li>Access the application at <a href=\"https://vault.google.com\">https://vault.google.com</a></li>\n</ul>\n"
+      },
+    
+      {
+        "topic_name": "google-workspace",
+        "created_by": "Google",
+        "display_name": "Google Workspace",
+        "github_url": "https://github.com/googleworkspace",
+        "logo": 
+          "https://github.com/topics/google-workspace/google-workspace.png",
+        
+        "released": null,
+        "short_description": "Secure collaboration and productivity apps for businesses of all sizes.",
+        "url": "/topics/google-workspace/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Workspace",
+        "related": [
+          
+            "gmail, google-calendar, google-chat, google-meet, google-docs, google-drive, google-sheets, google-forms, google-slides"
+          
+        ],
+        "aliases": [
+          
+            "gsuite, google-workspace-api"
+          
+        ],
+        "content": "<p>Secure collaboration and productivity apps for businesses of all sizes. Google Workspace offers a wide range of developer products and tools that let you connect your service with Google Workspace or extend Google Workspace apps like Gmail, Drive, and Chat.</p>\n\n<p>Other resources:</p>\n\n<ul>\n  <li>Read the API documentation at <a href=\"https://developers.google.com/workspace\">https://developers.google.com/workspace</a></li>\n  <li>Access the application at <a href=\"https://workspace.google.com/business/signup/welcome\">https://workspace.google.com/business/signup/welcome</a></li>\n</ul>\n"
       },
     
       {
@@ -11174,6 +11761,29 @@
           
         ],
         "content": "<p>The IndieWeb is a community of individual personal websites, connected by simple standards, based on the principles of owning your domain, using it as your primary identity, to publish on your own site (optionally syndicate elsewhere), and own your data.</p>\n"
+      },
+    
+      {
+        "topic_name": "inkscape",
+        "created_by": null,
+        "display_name": "Inkscape",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/inkscape/inkscape.png",
+        
+        "released": "November 2, 2003",
+        "short_description": "Inkscape is an open-source vector graphics editor used to create vector images, primarily in the SVG format.",
+        "url": "/topics/inkscape/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Inkscape",
+        "related": [
+          
+            "svg"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Inkscape is a free and open source vector graphics editor for GNU/Linux, Windows and macOS. It offers a rich set of features and is widely used for both artistic and technical illustrations such as cartoons, clip art, logos, typography, diagramming and flowcharting. It uses vector graphics to allow for sharp printouts and renderings at unlimited resolution and is not bound to a fixed number of pixels like raster graphics. Inkscape uses the standardized SVG file format as its main format, which is supported by many other applications including web browsers.</p>\n"
       },
     
       {
@@ -12648,6 +13258,29 @@
       },
     
       {
+        "topic_name": "mathematics",
+        "created_by": null,
+        "display_name": "Mathematics",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/mathematics/mathematics.png",
+        
+        "released": null,
+        "short_description": "Mathematics is a subject that deals with numbers, shapes, logic, quantity, and arrangements.",
+        "url": "/topics/mathematics/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Mathematics",
+        "related": [
+          
+        ],
+        "aliases": [
+          
+            "math"
+          
+        ],
+        "content": "<p>Mathematics is an area of knowledge that includes such topics as numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes.</p>\n"
+      },
+    
+      {
         "topic_name": "matlab",
         "created_by": "Cleve Moler",
         "display_name": "MATLAB",
@@ -13019,6 +13652,29 @@
           
         ],
         "content": "<p>The company develops and sells wired and wireless network routers, network switches, access points, as well as operating systems, and auxiliary software.</p>\n"
+      },
+    
+      {
+        "topic_name": "mill-plugin",
+        "created_by": null,
+        "display_name": "Mill Plugin",
+        "github_url": "https://github.com/com-lihaoyi/mill",
+        "logo": 
+          "https://github.com/topics/mill-plugin/mill-plugin.png",
+        
+        "released": null,
+        "short_description": "Plugins for the Mill Build Tool.",
+        "url": "/topics/mill-plugin/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+            "scala, java"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Open source plugins to be used with the Mill Build Tool.</p>\n"
       },
     
       {
@@ -13808,7 +14464,7 @@
         "aliases": [
           
         ],
-        "content": "<p>Nextcloud is a server-side PHP application along with an ecosystem of client and server apps allowing users to synchronize, and share and collaborate on files, and contacts, and calendars and other dataand can be installed on a private server. The code is free and open source, developed by the Nextcloud GmbH and the Nextcloud community.</p>\n"
+        "content": "<p>Nextcloud is a server-side PHP application along with an ecosystem of client and server apps allowing users to synchronize, and share and collaborate on files, and contacts, and calendars and other data and can be installed on a private server. The code is free and open source, developed by the Nextcloud GmbH and the Nextcloud community.</p>\n"
       },
     
       {
@@ -13832,6 +14488,31 @@
           
         ],
         "content": "<p>Next.js is an open source React front-end development web framework that enables functionality such as server-side rendering and generating static websites for React-based web applications.</p>\n"
+      },
+    
+      {
+        "topic_name": "nexus-mods",
+        "created_by": "Black Tree Gaming Limited",
+        "display_name": "Nexus Mods",
+        "github_url": "https://github.com/Nexus-Mods",
+        "logo": 
+          "https://github.com/topics/nexus-mods/nexus-mods.png",
+        
+        "released": null,
+        "short_description": "Nexus Mods is a site which allows users to upload and download game mods.",
+        "url": "/topics/nexus-mods/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nexus_Mods",
+        "related": [
+          
+            "modding"
+          
+        ],
+        "aliases": [
+          
+            "nexusmods"
+          
+        ],
+        "content": "<p>Nexus Mods is a site which allows users to upload and download “mods” (modifications) for computer games. It acts as a source for the distribution of original content. It is one of the largest gaming modification websites on the web.</p>\n"
       },
     
       {
@@ -14996,7 +15677,7 @@
         "aliases": [
           
         ],
-        "content": "<p>The abbrevation PIM may refer to Personal Information Management OR Product Information Management (among others).</p>\n"
+        "content": "<p>The abbreviation PIM may refer to Personal Information Management OR Product Information Management (among others).</p>\n"
       },
     
       {
@@ -16124,7 +16805,7 @@
         "wikipedia_url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
         "related": [
           
-            "vue, angular, react-native"
+            "vue, angular, react-native, nextjs"
           
         ],
         "aliases": [
@@ -17486,6 +18167,29 @@
       },
     
       {
+        "topic_name": "sidekiq",
+        "created_by": "Mike Perham",
+        "display_name": "Sidekiq",
+        "github_url": "https://github.com/mperham/sidekiq",
+        "logo": 
+          "https://github.com/topics/sidekiq/sidekiq.png",
+        
+        "released": "February 05, 2012",
+        "short_description": "Simple, efficient background processing for Ruby.",
+        "url": "/topics/sidekiq/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sidekiq",
+        "related": [
+          
+            "resque, activejob, delayed-job"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Simple, efficient background processing for Ruby.<br />\nSidekiq uses threads to handle many jobs at the same time in the same process. It does not require Rails but will integrate tightly with Rails to make background processing dead simple.</p>\n"
+      },
+    
+      {
         "topic_name": "simulator",
         "created_by": null,
         "display_name": "simulator",
@@ -17602,6 +18306,29 @@
           
         ],
         "content": "<p>Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have a nearly identical API. Like Node.js, it is event-driven.</p>\n"
+      },
+    
+      {
+        "topic_name": "software-challenge-germany",
+        "created_by": null,
+        "display_name": "Software-Challenge Germany",
+        "github_url": "https://github.com/software-challenge",
+        "logo": 
+          "https://github.com/topics/software-challenge-germany/software-challenge-germany.png",
+        
+        "released": 2004,
+        "short_description": "Programming competition for students, held by the CAU Kiel and FH Wedel.",
+        "url": "/topics/software-challenge-germany/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+            "softwarechallengegermany"
+          
+        ],
+        "content": "<p>The Software-Challenge Germany is a programming competition held by the CAU Kiel and FH Wedel. A new board game is chosen annually and implemented as a computer game by the organizers.</p>\n\n<p>The task for the student teams is to write a client that will play the game against the clients of other participants. Inexperienced students can always get help from tutors of the CAU Kiel.\nDedicated students have the chance to win one of up to 100 scholarships for the CAU Kiel.</p>\n"
       },
     
       {
@@ -18304,7 +19031,7 @@
           "https://github.com/topics/supabase/supabase.png",
         
         "released": "February 2020",
-        "short_description": "Supabase is a Open-Souce Firebase Alternative.",
+        "short_description": "Supabase is a Open-Source Firebase Alternative.",
         "url": "/topics/supabase/index.html",
         "wikipedia_url": null,
         "related": [
@@ -18317,7 +19044,7 @@
             "supabase-js, supabasejs"
           
         ],
-        "content": "<p>Supabase is an Open-Souce Firebase Alternative.</p>\n\n<p>It’s been in development since April 2015 and is currently in production at <a href=\"https://supabase.com\">supabase.com</a>. It’s built on top of <a href=\"https://www.postgresql.org/\">PostgreSQL</a>, <a href=\"https://github.com/netlify/gotrue\">GoTrue</a>, <a href=\"https://github.com/Kong/kong\">Kong</a>, and <a href=\"https://postgrest.org/\">PostgREST</a>.</p>\n"
+        "content": "<p>Supabase is an Open-Source Firebase Alternative.</p>\n\n<p>It’s been in development since April 2015 and is currently in production at <a href=\"https://supabase.com\">supabase.com</a>. It’s built on top of <a href=\"https://www.postgresql.org/\">PostgreSQL</a>, <a href=\"https://github.com/netlify/gotrue\">GoTrue</a>, <a href=\"https://github.com/Kong/kong\">Kong</a>, and <a href=\"https://postgrest.org/\">PostgREST</a>.</p>\n"
       },
     
       {
@@ -18416,6 +19143,29 @@
           
         ],
         "content": "<p>Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app.</p>\n"
+      },
+    
+      {
+        "topic_name": "svg",
+        "created_by": null,
+        "display_name": "SVG",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/svg/svg.png",
+        
+        "released": "September 4, 2001",
+        "short_description": "SVG is an XML-based markup language for describing two-dimensional based vector graphics.",
+        "url": "/topics/svg/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Scalable_Vector_Graphics",
+        "related": [
+          
+            "xml"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Scalable Vector Graphics (SVG) is an XML-based vector image format for defining two-dimensional graphics, having support for interactivity and animation. The SVG specification is an open standard developed by the World Wide Web Consortium (W3C) since 1999.</p>\n"
       },
     
       {
@@ -18531,6 +19281,29 @@
           
         ],
         "content": "<p>Synthetic biology (SynBio) is a multidisciplinary area of research that seeks to create new biological parts, devices, and systems, or to redesign systems that are already found in nature.</p>\n"
+      },
+    
+      {
+        "topic_name": "t3-stack",
+        "created_by": "T3 Open Source",
+        "display_name": "T3 Stack",
+        "github_url": "https://github.com/t3-oss",
+        "logo": 
+          null,
+        
+        "released": null,
+        "short_description": "The T3 Stack is a web development stack focused on simplicity, modularity, and full-stack typesafety.",
+        "url": "/topics/t3-stack/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+        ],
+        "aliases": [
+          
+            "t3"
+          
+        ],
+        "content": "<p>The T3 Stack is a web development stack made by <a href=\"https://twitter.com/t3dotgg\">Theo</a> focused on simplicity, modularity, and full-stack type safety. It consists of:</p>\n\n<ul>\n  <li><a href=\"https://nextjs.org\">Next.js</a></li>\n  <li><a href=\"https://trpc.io\">tRPC</a></li>\n  <li><a href=\"https://tailwindcss.com\">Tailwind CSS</a></li>\n  <li><a href=\"https://typescriptlang.org\">TypeScript</a></li>\n  <li><a href=\"https://prisma.io\">Prisma</a></li>\n  <li><a href=\"https://next-auth.js.org\">NextAuth.js</a></li>\n</ul>\n"
       },
     
       {
@@ -20290,6 +21063,29 @@
       },
     
       {
+        "topic_name": "webkit",
+        "created_by": "Apple, KDE and others",
+        "display_name": "WebKit",
+        "github_url": "https://github.com/WebKit/WebKit",
+        "logo": 
+          "https://github.com/topics/webkit/webkit.png",
+        
+        "released": "June 7, 2005",
+        "short_description": "WebKit is a layout engine designed to allow web browsers to render web pages.",
+        "url": "/topics/webkit/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WebKit",
+        "related": [
+          
+            "chromium, apple, google, web, browser"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>WebKit is a browser engine developed by Apple and primarily used in its Safari web browser, as well as all iOS web browsers. WebKit’s HTML and JavaScript engine started as a fork of the KHTML and KJS libraries from KDE, and has since been further developed by KDE contributors, Apple, Google, Nokia, Bitstream, BlackBerry, Sony, Igalia, and others.</p>\n"
+      },
+    
+      {
         "topic_name": "webpack",
         "created_by": "Tobias Koppers, Sean Larkin, Johannes Ewald, Juho Vepsäläinen, Kees Kluskens",
         "display_name": "Webpack",
@@ -20331,6 +21127,29 @@
           
         ],
         "content": "<p>A website is a collection of web pages and related content that is identified by a common domain name and published on at least one web server.</p>\n"
+      },
+    
+      {
+        "topic_name": "webview",
+        "created_by": "WebKit",
+        "display_name": "WebView",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/webview/webview.png",
+        
+        "released": "April 2013",
+        "short_description": "A browser engine contained within an application.",
+        "url": "/topics/webview/index.html",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/WebView",
+        "related": [
+          
+            "webkit, kde, chromium, apple, google, web, browser, html, css, js"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>The “WebView” is the window through which your device displays these web pages. The WebView allows the programmer to write the bulk of the application using HTML, JavaScript and CSS, the standard Web programming tools.</p>\n"
       },
     
       {
@@ -20701,6 +21520,52 @@
           
         ],
         "content": "<p>XMPP is the Extensible Messaging and Presence Protocol, a set of open technologies for instant messaging, presence, multi-party chat, voice and video calls, collaboration, lightweight middleware, content syndication, and generalized routing of XML data.</p>\n"
+      },
+    
+      {
+        "topic_name": "xonsh",
+        "created_by": "Anthony Scopatz and the team",
+        "display_name": "Xonsh",
+        "github_url": "https://github.com/xonsh/xonsh",
+        "logo": 
+          "https://github.com/topics/xonsh/xonsh.png",
+        
+        "released": "January 1, 2016",
+        "short_description": "Python-powered, cross-platform, Unix-gazing shell.",
+        "url": "/topics/xonsh/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+            "xontrib, xonsh-dev"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Xonsh is a Python-powered, cross-platform, Unix-gazing shell language and command prompt. The language is a superset of Python 3.6+ with additional shell primitives that you are used to from Bash and IPython. It works on all major systems including Linux, OSX, and Windows. Xonsh is meant for the daily use of experts and novices.</p>\n"
+      },
+    
+      {
+        "topic_name": "xontrib",
+        "created_by": null,
+        "display_name": "Xontrib",
+        "github_url": null,
+        "logo": 
+          "https://github.com/topics/xontrib/xontrib.png",
+        
+        "released": null,
+        "short_description": "Xontribs are a set of tools and conventions for extending the functionality of xonsh shell.",
+        "url": "/topics/xontrib/index.html",
+        "wikipedia_url": null,
+        "related": [
+          
+            "xonsh, xonsh-dev"
+          
+        ],
+        "aliases": [
+          
+        ],
+        "content": "<p>Xontributions, or xontribs, are a set of tools and conventions for extending the functionality of xonsh beyond what is provided by default. This allows 3rd party developers and users to improve their xonsh experience without having to go through the xonsh development and release cycle.</p>\n"
       },
     
       {
